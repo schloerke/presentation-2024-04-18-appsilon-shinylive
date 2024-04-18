@@ -5,12 +5,16 @@
 <!-- * HTML:
 http://schloerke.com/presentation-2024-04-18-appsilon-shinylive/ -->
 
+Live demo app: https://schloerke.com/presentation-2024-04-18-appsilon-shinylive/
+
+Slides: https://schloerke.com/presentation-2024-04-18-appsilon-shinylive/slides/
+
 
 ## Resources for learning more
 
 * [`{shinylive}`](https://posit-dev.github.io/shinylive/) [:octocat:](https://github.com/posit-dev/shinylive): Serverless Shiny apps
 
-* [`{shiny}`](https://https://shiny.rstudio.com/) [:octocat:](https://github.com/rstudio/shiny): Web Application Framework for R
+* [`{shiny}`](https://shiny.rstudio.com/) [:octocat:](https://github.com/rstudio/shiny): Web Application Framework for R
 
 
 
